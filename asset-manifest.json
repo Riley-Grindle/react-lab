@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Riley-Grindle/react-lab.git/static/css/main.073c9b0a.css",
+    "main.css": "/Riley-Grindle/react-lab.git/static/css/main.8b9d3d47.css",
     "main.js": "/Riley-Grindle/react-lab.git/static/js/main.10c59b66.js",
     "static/js/787.28cb0dcd.chunk.js": "/Riley-Grindle/react-lab.git/static/js/787.28cb0dcd.chunk.js",
     "static/media/iphone-x-pictures-45216.png": "/Riley-Grindle/react-lab.git/static/media/iphone-x-pictures-45216.0531004d7e932691b568.png",
     "index.html": "/Riley-Grindle/react-lab.git/index.html",
-    "main.073c9b0a.css.map": "/Riley-Grindle/react-lab.git/static/css/main.073c9b0a.css.map",
+    "main.8b9d3d47.css.map": "/Riley-Grindle/react-lab.git/static/css/main.8b9d3d47.css.map",
     "main.10c59b66.js.map": "/Riley-Grindle/react-lab.git/static/js/main.10c59b66.js.map",
     "787.28cb0dcd.chunk.js.map": "/Riley-Grindle/react-lab.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
+    "static/css/main.8b9d3d47.css",
     "static/js/main.10c59b66.js"
   ]
 }
